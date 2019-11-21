@@ -62,6 +62,6 @@ export class HomePage {
             .catch(err => {
                 console.error("file not read", err);
             });
-        console.log("end of reading file");
+        console.log("end of reading file.");
     }
 }
