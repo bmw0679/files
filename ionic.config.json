@@ -1,5 +1,7 @@
 {
   "name": "files",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

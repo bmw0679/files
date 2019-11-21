@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">files</string>
+    <string name="title_activity_main">files</string>
+    <string name="package_name">com.riafox.files</string>
+    <string name="custom_url_scheme">com.riafox.files</string>
+</resources>

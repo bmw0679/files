@@ -1,0 +1,8 @@
+{
+  "appId": "com.riafox.files",
+  "appName": "files",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
